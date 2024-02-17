@@ -206,6 +206,7 @@ body{
 .play-pause{
     background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958);
     color: var(--color-basic-1);
+    border-radius: 50%;
 }
 
 .control-btn span{
