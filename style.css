@@ -221,7 +221,7 @@ body{
 }
 
 .control-btn span:hover{
-    background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958);
+    background: linear-gradient(117deg,#fb356ac8, #ad2983a8, #7727b49b, #2219589d);
     color: var(--color-basic-1);
 }
 
