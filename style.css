@@ -18,7 +18,7 @@ body{
     justify-content: center;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(315deg, #1a1343 5%, #221958 12%, #342682 23%, #a11475 68%, #FB3569 80%);
+    background: linear-gradient(315deg, #1a1343 5%, #221958 12%, #342682 23%, #a11475 70%, #FB3569 85%);
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
     background-attachment: fixed;
