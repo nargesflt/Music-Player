@@ -8,6 +8,7 @@
 :root{
     --color: #51eaea, #fffde1, #ff9d76, #FB3569;
     --color-basic: #efefef;
+    --color-gradient: linear-gradient(90deg, #065498 12%, #42212a 20%, #593a74 30%);
 }
 
 body{
@@ -164,7 +165,7 @@ body{
     width: 0.7%;
     height: inherit;
     border-radius: inherit;
-    background-color: #0987f6;
+    background-color: var(--color-gradient);
     cursor: pointer;
     position: relative;
 }
