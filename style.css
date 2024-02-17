@@ -7,8 +7,9 @@
 
 :root{
     --color: #51eaea, #fffde1, #ff9d76, #FB3569;
-    --color-basic: #efefef;
-    --color-gradient: linear-gradient(90deg, #065498 12%, #42212a 20%, #593a74 30%);
+    --color-basic-1: #efefef;
+    --color-basic-2: #efefefe0;
+    --color-gradient: linear-gradient(to right , #3e2482, #a40e80, #FB3569);
 }
 
 body{
@@ -107,7 +108,7 @@ body{
 
 .top-bar .material-symbols-outlined{
     font-size: 24px;
-    color: var(--color-basic);
+    color: var(--color-basic-1);
 }
 
 .text{
@@ -165,7 +166,7 @@ body{
     width: 0.7%;
     height: inherit;
     border-radius: inherit;
-    background-color: var(--color-gradient);
+    background: var(--color-gradient);
     cursor: pointer;
     position: relative;
 }
@@ -191,7 +192,7 @@ body{
     align-items: center;
     justify-content: space-between;
     margin-top: 7px;
-    color: #42212ae0;
+    color: var(--color-basic-2);
     font-size: 12px;
 }
 
@@ -212,13 +213,14 @@ body{
     align-items: center;
     justify-content: center;
     color: #42212a;
-    background: #efefefe0;
+    background: var(--color-basic-2);
 }
 
 .control-btn span:hover{
-background: var(--color-basic);
-box-shadow: inset 6px 6px 10px -1px rgba(0, 0, 0, 0.469),
-inset -6px -6px 10px 10px -1px rgba(225, 225, 225, 0.845)
+    background: linear-gradient(117deg, #ad2983, #7727b4);
+    box-shadow: inset 6px 6px 10px -1px #221958 ,
+    inset -6px -6px 10px 10px -1px #a11475;
+    color: var(--color-basic-1);
 }
 
 .control-btn span:active{
