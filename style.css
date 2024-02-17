@@ -226,6 +226,11 @@ body{
     inset -6px -6px 12px 12px -1px #fff;
     background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958);
 }
+.control-btn span:focus{
+    box-shadow: inset 6px 6px 12px -1px #fff,
+    inset -6px -6px 12px 12px -1px #fff;
+    background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958);
+}
 
 .line {
     margin-top: 80px;
