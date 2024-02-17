@@ -203,7 +203,7 @@ body{
     justify-content: space-between;
 }
 
-.play-pause span{
+.control-btn .play-pause span{
     background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958) !important; 
     color: var(--color-basic-1) !important;
 }
