@@ -223,7 +223,8 @@ body{
 
 .control-btn span:active{
     box-shadow: inset 6px 6px 10px -1px rgba(0,0,0,0.15),
-    inset -6px -6px 10px 10px -1px rgba(255,255,255,0.7)
+    inset -6px -6px 10px 10px -1px rgba(255, 255, 255, 0.977);
+    background: linear-gradient(117deg,#FB3569, #ad2983, #7727b4, #221958);
 }
 
 .line {
