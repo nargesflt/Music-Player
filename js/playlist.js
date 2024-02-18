@@ -190,6 +190,55 @@ let songs = [
         artist : "Girls' choir",
         img : "img32",
         audio : "music32"
+    },
+    {
+        name : "E Yar E Yar",
+        artist : "Girls' choir",
+        img : "img33",
+        audio : "music33"
+    },
+    {
+        name : "KhaterKhat",
+        artist : "Girls' choir",
+        img : "img34",
+        audio : "music34"
+    },
+    {
+        name : "Yar Mehrabounom Yar",
+        artist : "Girls' choir",
+        img : "img35",
+        audio : "music35"
+    },
+    {
+        name : "Mirza Mashallah",
+        artist : "Girls' choir",
+        img : "img36",
+        audio : "music36"
+    },
+    {
+        name : "Ey Hamoumi",
+        artist : "Girls' choir",
+        img : "img37",
+        audio : "music37"
+    },
+    {
+        name : "Azizom Soze",
+        artist : "Girls' choir",
+        img : "img38",
+        audio : "music38"
+    },
+    {
+        name : "Kako",
+        artist : "Girls' choir",
+        img : "img39",
+        audio : "music39"
+    },
+    {
+        name : "Shabe Chahar Shanbe 4",
+        artist : "Girls' choir",
+        img : "img40",
+        audio : "music40"
     }
+
     
 ]
