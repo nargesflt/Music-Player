@@ -247,13 +247,6 @@ footer{
     margin-top: 5px;
     text-align: center;
 }
-
-footer span{
-    color: var(--color-gradient);
-    font-size: 10px;
-    padding-top: 10px;
-}
-
 footer a {
     color: #875df1cb;
     text-decoration: none;
