@@ -150,7 +150,7 @@ body{
 }
 
 .music-titles .artist{
-    font-size: 17px;
+    font-size: 18px;
     margin-top: 3px;
 }
 
@@ -234,20 +234,20 @@ body{
 
 .line {
     margin-top: 80px;
-    opacity: 80%;
+    opacity: 50%;
     border-width: 0 0 1px;
     border-image: linear-gradient(90deg, #453a7400, #453a74ca 50%, #453a7400 100%) 0 0 100%;
     border-style: solid;
 }
 
 footer{
-    color: #593a74;
-    font-size: 11.5px;
+    color: #6c5a7c;
+    font-size: 10px;
     line-height: 18px;
     margin-top: 5px;
     text-align: center;
 }
 footer a {
-    color: #885df1;
+    color: #875df1cb;
     text-decoration: none;
 }
